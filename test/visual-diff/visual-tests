@@ -868,6 +868,10 @@
       // e.g., https://percy.io/ampproject/amphtml/builds/808263/view/45630008/375?mode=diff&browser=firefox&snapshot=45630008
       "url": "examples/visual-tests/amp-by-example/components/amp-youtube/index.html",
       "name": "amp-youtube - Amp By Example"
-    }
+    },
+    {
+      "url": "examples/visual-tests/amp-gist/amp-gist.amp.html",
+      "name": "AMP Gist"
+    },
   ]
 }
